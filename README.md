@@ -1,4 +1,4 @@
-# Mail Automation
+# Email Automation
 
 It simple email automation project made using python. This project mainly consits of 6 files.
 
