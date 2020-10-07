@@ -6,7 +6,7 @@ import json
 def main():
     subject = input("Enter the subject: ")
 
-    #Loading the message text form message.txt
+    #Loading the message text from message.txt
     with open('message.txt') as file:
         message_text = file.read()
 
