@@ -1,0 +1,2 @@
+Hello {name},
+This is an automated mail send on {data}
